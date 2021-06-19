@@ -13,9 +13,6 @@ class sys:
         print(f'신장: {self.key}')
         print()
 
-    def attack(self, skill_num):
-        print(self.skill[skill_num])
-
 
 sys1 = sys('구서영', 629, 158)
 sys2 = sys('안영석', 726, 175)
